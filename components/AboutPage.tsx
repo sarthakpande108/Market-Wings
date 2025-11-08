@@ -23,7 +23,7 @@ export const AboutPage: React.FC = () => {
           AI Developer & Financial Analyst
         </h3>
         <p className="leading-relaxed">
-          I am an AI/GenAI developer with four years of experience building innovative AI-powered products. My expertise lies at the intersection of artificial intelligence and finance, a space where I am passionate about creating tools that provide actionable insights from complex data.
+          I am  Sarthak Pande AI/GenAI developer with four years of experience building innovative AI-powered products. My expertise lies at the intersection of artificial intelligence and finance, a space where I am passionate about creating tools that provide actionable insights from complex data.
         </p>
       </div>
 
