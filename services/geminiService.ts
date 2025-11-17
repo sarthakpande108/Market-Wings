@@ -85,6 +85,6 @@ Example JSON structure:
     if (error instanceof Error && error.message.includes("API key not valid")) {
         throw new Error("Invalid API Key. Please check your configuration.");
     }
-    throw new Error("Failed to get analysis from Gemini.");
+    throw new Error("Failed to get analysis,Internal server error");
   }
 }
